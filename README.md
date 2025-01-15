@@ -32,9 +32,10 @@ Total orders to date in Europe and the U.K combined represent 7,380 while total 
 
 ## Product Level Analysis and Profit
 
+Our goal of 10% growth month fell short last month in revenue, profit and total orders.
 <img src="images/gauges.png" alt="ratings chart" width='60%' heigth='auto'>
 <img src="images/adjusted_profit.png" alt="ratings chart" width='60%' heigth='auto'>
-<img src="images/totals_cards.png" alt="ratings chart" width='60%' heigth='auto'>
+<img src="images/profit_chart.png" alt="ratings chart" width='60%' heigth='auto'>
 
 
 
