@@ -44,10 +44,11 @@ Growth has accelarated for the past 12 months; however, our clothing and accesor
 
 ## Client Level Analysis
 
-Our weekly customers saw a marked increase just after the start of our accesory and clothing product lines from an average of 330 to 1700
+Our monthly customers saw a marked increase of 515% just after the start of our accesory and clothing product lines from an average of 330 monthly to 1700 monthly customers. This is evidence of the success of recent product expansions and we suggest additional market research to uncover if any unmet demand can be met.
 
 <img src="images/customers.png" alt="ratings chart" width='80%' heigth='auto'>
 
+The majority of our customer base is
 
 <img src="images/orders_by_income.png" alt="ratings chart" width='26%' heigth='auto'><img src="images/orders_by_occupation.png" alt="ratings chart" width='30%' heigth='auto'>
 
