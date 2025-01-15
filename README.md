@@ -16,7 +16,10 @@ Year to date revenue from beginning of operations in Jan, 2020 to (blank) is $24
 <img src="images/revenue_chart.png" alt="ratings chart" width='70%' heigth='auto'>
 
 The bike accessories product category comprised 45% of orders, indicative that customers prefer us for our many bike customization options and repairs.
+The clothing product category made up a significantly smallar proportion of orders at 18.5%. This data combined with helmets having a return rate of over 3%, which was 33% higher than the average return rate for all items indicates that the clothing product category is an area that needs attention.
 
 <img src="images/orders_by_category.png" alt="ratings chart" width='40%' heigth='auto'><span><img src="images/monthly_metrics_card.png" alt="ratings chart" width='40%' heigth='auto'></span>
+
+
 </body>
 
