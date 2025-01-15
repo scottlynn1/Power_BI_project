@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <body>
 # Power_BI_project
-This project uses a dataset from an outdoor sports company AdventureWorks and explores several business metrics and tracks the companies performance using prodect level as well as regional and client based data.
+This project uses a dataset from an outdoor sports bike company AdventureWorks and explores several business metrics and tracks the companies performance using prodect level as well as regional and client based data.
 
 Below is the data model consisting of two main data tables and several lookup tables
 
@@ -14,6 +14,9 @@ Year to date revenue from beginning of operations in Jan, 2020 to (blank) is $24
 
 <img src="images/totals_cards.png" alt="ratings chart" width='60%' heigth='auto'>
 <img src="images/revenue_chart.png" alt="ratings chart" width='70%' heigth='auto'>
-<img src="images/orders_by_category.png" alt="ratings chart" width='40%' heigth='auto'><span><img src="images/monthly_metrics_cards.png" alt="ratings chart" width='40%' heigth='auto'></span>
+
+The bike accessories product category comprised 45% of orders, indicative that customers prefer us for our many bike customization options and repairs.
+
+<img src="images/orders_by_category.png" alt="ratings chart" width='40%' heigth='auto'><span><img src="images/monthly_metrics_card.png" alt="ratings chart" width='40%' heigth='auto'></span>
 </body>
 
