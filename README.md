@@ -13,7 +13,7 @@ The main source of the data used for this analysis are transactions split betwee
 
 ## Executive Summary
 ---
-Year to date revenue from beginning of operations in Jan, 2020 to (blank) is $24.9 million and Year to date profit is $10.5 million. Trailing 12 month revenue for this quater was $15.5 million, more than 50% percent of total revenue to date, showing considerable growth within the past 12 months.
+Year to date revenue from beginning of operations in Jan, 2020 to to Jun, 2022 is $24.9 million and Year to date profit is $10.5 million. Trailing 12 month revenue for this quater was $15.5 million, more than 50% percent of total revenue to date, showing considerable growth within the past 12 months.
 
 <img src="images/totals_cards.png" alt="ratings chart" width='60%' heigth='auto'>
 <img src="images/revenue_chart.png" alt="ratings chart" width='70%' heigth='auto'>
@@ -48,7 +48,11 @@ Our monthly customers saw a marked increase of 515% just after the start of our 
 
 <img src="images/customers.png" alt="ratings chart" width='80%' heigth='auto'>
 
-The majority of our customer base is
+Our total orders by customer income level since operations has been split between high income (earning >= 100,000) 11.3%,  average income (earning >= 50,000) 46%, and low income (earning < 50,000) 42%.
+Although order quantity only differ between average and low income customers by 12%, total profit from average income customers is 32% higher, due to purchasing higher ticket products which yeild better profit margins. This same variance with high end customers of higher total profit relative to orders holds true in this data set.
+Total orders by customer income level correlate closely with our total customers by income level, indicating that our low proportion, 11.3%, of orders fulfilled by high end customers is due not to high end customers ordering less but more expensive items, rather that our total overall customer base earning a high income is low.
+This demonstrates an of the market that we have not fully tapped into and recommend the marketing teams to begin looking into ways in which we can appeal to more high end customers.
+
 
 <img src="images/orders_by_income.png" alt="ratings chart" width='26%' heigth='auto'><img src="images/orders_by_occupation.png" alt="ratings chart" width='30%' heigth='auto'>
 
