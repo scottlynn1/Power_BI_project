@@ -59,7 +59,7 @@ Our total orders by customer income level since operations has been split betwee
 Although order quantity only differs between average and low income customers by 12%, total profit from average income customers is 32% higher, due to purchasing higher ticket products which yield better profit margins. This same variance with high end customers of higher total profit relative to orders holds true in this data set.
 Total orders by customer income level correlate closely with our total customers by income level, indicating that our low proportion, 11.3%, of orders fulfilled by high end customers is due not to high end customers ordering less but more expensive items, rather that our total overall customer base earning a high income is low.
 
-<img src="images/total_profit_by_income.png" alt="ratings chart" width='350%' heigth='auto'><img src="images/total_customers_by_income.png" alt="ratings chart" width='35%' heigth='auto'>
+<img src="images/total_profit_by_income.png" alt="ratings chart" width='38%' heigth='auto'><img src="images/total_customers_by_income.png" alt="ratings chart" width='38%' heigth='auto'>
 
 Although we have been able to attract both white and blue collar customers, high earning clients may be an area that we have failed to appeal to.
 This demonstrates an area of the market that we have not fully tapped into and we recommend that the marketing teams begin looking into ways in which we can appeal to more high end customers.
