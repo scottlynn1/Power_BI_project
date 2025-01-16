@@ -21,8 +21,13 @@ Year to date revenue from beginning of operations in Jan, 2020 to to Jun, 2022 i
 The bike accessories product category comprised 45% of orders, indicating that customers prefer us for our many bike customization options and repairs.
 The clothing product category made up a significantly smallar proportion of orders at 18.5%. This data combined with helmets having a return rate of over 3%, which was 33% higher than the average return rate for all items indicates that the clothing product category is an area that needs attention.
 Despite this, monthly returns are down from previous month. Monthly revenue is higher while orders are lower due to more high ticket items being sold than the previous month.
+
 Most of our recent revenue growth is due to the addition of our clothing and accesory product lines.
 To maintain goals of 10% growth per month, additional product line expansion and marketing to higher end customers in order to sell higher ticket items are suggested to meet company goals.
+
+Customer data shows that orders from high earning customers yeild greater profits on average due to purchases of high ticket item: however, our total customers that are high earning only comprise 11.3% of our total customers.
+Although we do successfully attract equally both blue and white collar workers, we suggest that the marketing teams look into strategies to appeal to higher earning clients.
+
 
 <img src="images/orders_by_category.png" alt="ratings chart" width='40%' heigth='auto'><span><img src="images/monthly_metrics_card.png" alt="ratings chart" width='40%' heigth='auto'></span>
 
@@ -49,13 +54,15 @@ Our monthly customers saw a marked increase of 515% just after the start of our 
 <img src="images/customers.png" alt="ratings chart" width='80%' heigth='auto'>
 
 Our total orders by customer income level since operations has been split between high income (earning >= 100,000) 11.3%,  average income (earning >= 50,000) 46%, and low income (earning < 50,000) 42%.
-Although order quantity only differ between average and low income customers by 12%, total profit from average income customers is 32% higher, due to purchasing higher ticket products which yeild better profit margins. This same variance with high end customers of higher total profit relative to orders holds true in this data set.
-Total orders by customer income level correlate closely with our total customers by income level, indicating that our low proportion, 11.3%, of orders fulfilled by high end customers is due not to high end customers ordering less but more expensive items, rather that our total overall customer base earning a high income is low.
-This demonstrates an of the market that we have not fully tapped into and recommend the marketing teams to begin looking into ways in which we can appeal to more high end customers.
-
 
 <img src="images/orders_by_income.png" alt="ratings chart" width='26%' heigth='auto'><img src="images/orders_by_occupation.png" alt="ratings chart" width='30%' heigth='auto'>
+Although order quantity only differ between average and low income customers by 12%, total profit from average income customers is 32% higher, due to purchasing higher ticket products which yeild better profit margins. This same variance with high end customers of higher total profit relative to orders holds true in this data set.
+Total orders by customer income level correlate closely with our total customers by income level, indicating that our low proportion, 11.3%, of orders fulfilled by high end customers is due not to high end customers ordering less but more expensive items, rather that our total overall customer base earning a high income is low.
 
+<img src="images/total_profit_by_income.png" alt="ratings chart" width='50%' heigth='auto'><img src="images/total_customers_by_income.png" alt="ratings chart" width='50%' heigth='auto'>
+
+Although we have been able to attract both white and blue collar customers, high earning clients may be an area that we have failed to appeal to.
+This demonstrates an area of the market that we have not fully tapped into and recommend the marketing teams to begin looking into ways in which we can appeal to more high end customers.
 
 </body>
 
